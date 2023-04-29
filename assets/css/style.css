@@ -492,6 +492,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+ 
 }
 
 .portfolio #portfolio-flters {
@@ -520,7 +521,11 @@ section {
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #149ddd;
 }
-
+.project_a{
+  justify-content: center;align-items: center;
+  display: flex;
+  
+}
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
